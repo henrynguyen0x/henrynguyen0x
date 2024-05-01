@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Hieu (like "Hue")
-- 👀 I’m a Product Manager at LexisNexis
-- 🌱 I’m learning python
+- 👋 Hi, I’m Hieu (like "Hugh")
+- 👀 I’m the creator of CVTailor.info
+- 🌱 I'm from Vietnam but residing in the UK.
 - 💞️ I’m into automation and machine learning
 - 📫 How to reach me: vanhieunguyen.vn@gmail.com
 
